@@ -1,0 +1,14 @@
+{"llm_configs": {
+                "default": {
+                    "admin": [],
+                    "owner": [
+                        "55962ff7-2dfd-4342-b5cd-0d51fa3de1ba"
+                    ],
+                    "read": [],
+                    "read_all": [],
+                    "use": [
+                        "ac128e73-5859-4a8a-8328-2a017f59b50b",
+                        "5b104bbd-ba57-4f1e-9bd3-b8705e98482a"
+                    ]
+                }
+            }}
